@@ -39,6 +39,7 @@ sudo cd /path/to/script
 sudo chmod +x supclass_auto.sh
 sudo ./supclass_auto.sh
 ```
+*WARNING*: because of the resent updates lines 85 and 86 don't work comment them out using the "#" symbol.
 
 ## Built With
 
@@ -54,3 +55,6 @@ sudo ./supclass_auto.sh
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+* This script was based on the classification tutorial for GRASS GIS [source](https://grasswiki.osgeo.org/wiki/Image_classification)
