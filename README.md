@@ -57,4 +57,4 @@ sudo ./supclass_auto.sh
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* This script was based on the classification tutorial for GRASS GIS [source](https://grasswiki.osgeo.org/wiki/Image_classification)
+* This script was based on the classification tutorial for GRASS GIS which you can find [HERE](https://grasswiki.osgeo.org/wiki/Image_classification)
